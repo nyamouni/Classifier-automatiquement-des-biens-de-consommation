@@ -83,23 +83,5 @@ Déploiement d’un modèle CNN performant pour la classification supervisée d'
 
 Intégration d’une collecte dynamique de données via une API publique.
 
-🚀 Comment exécuter
-Cloner ce dépôt :
-
-bash
-Copier
-Modifier
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
-Installer les dépendances :
-
-bash
-Copier
-Modifier
-pip install -r requirements.txt
-Télécharger le modèle pré-entraîné best_model.h5 via ce lien et le placer dans le dossier du projet.
-
-Lancer les notebooks pour explorer le projet.
-
 💬 Contact
 Pour toute question ou suggestion, n'hésitez pas à me contacter via GitHub ou par email.
